@@ -1,0 +1,35 @@
+let score=null
+// console.log(typeof score);
+
+let score2="33abs"
+
+let value =Number(score) 
+// console.log(typeof value);
+// console.log(value);
+
+let a =""
+let bool_a=Boolean(a)
+console.log(bool_a);
+
+// 1 => true; 0 => false
+// "" => false
+// "hitesh" => true
+//""=> false
+
+console.log(2%3);
+
+
+
+// console.log("1" + 2);
+// console.log(1 + "2");
+// console.log("1" + 2 + 2);
+console.log(1+2+"2");
+
+console.log(1  + "2"+2);
+// console.log( 3 + 4 * 5 % 3);
+
+
+
+
+
+
